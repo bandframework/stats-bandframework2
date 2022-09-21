@@ -1,1 +1,2 @@
-# stats-bandframework2
+# stats-bandframework
+This collects statistics for bandframework
